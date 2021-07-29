@@ -3,5 +3,5 @@ Implementation-Title: phone-mapreduce
 Implementation-Version: 0.0.1-SNAPSHOT
 Build-Jdk-Spec: 1.8
 Created-By: Maven Jar Plugin 3.2.0
-Main-Class: com.geektime.PhoneFlow
+Main-Class: com.geektime.homework1.PhoneFlow
 

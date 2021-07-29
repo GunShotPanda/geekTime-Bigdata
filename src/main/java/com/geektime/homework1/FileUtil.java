@@ -1,4 +1,4 @@
-package com.geektime;
+package com.geektime.homework1;
 
 import java.io.File;
 
